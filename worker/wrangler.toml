@@ -1,4 +1,4 @@
-name = "zmail-backend"
+name = "xmail"
 main = "src/index.ts"
 
 # 打包配置
